@@ -1,0 +1,17 @@
+{
+    "name": "seduc-ti/login-google",
+    "autoload": {
+        "psr-4":{
+            "App\\":"app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zulmiross",
+            "email": "zulejesus@hotmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.15"
+    }
+}
